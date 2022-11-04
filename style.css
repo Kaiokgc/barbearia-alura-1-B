@@ -1,6 +1,13 @@
 h1 {
     text-align: center
+    background #cccccc
 }
+
 p {
-    text-align: center;
+    text-align: center;    
+    background-color: #cccccc
+}
+
+body {  
+    background-color: #cccccc 
 }
