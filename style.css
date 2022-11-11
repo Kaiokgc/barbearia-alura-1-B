@@ -1,13 +1,16 @@
 h1 {
-    text-align: center
-    background #cccccc
+    text-align: center;
+    color: crimson;
 }
 
 p {
-    text-align: center;    
-    background-color: #cccccc
+    text-align: center;      
 }
 
 body {  
-    background-color: #cccccc 
+    background: #4cba33 ;
+}
+
+em strong {
+        color:blueviolet;
 }
